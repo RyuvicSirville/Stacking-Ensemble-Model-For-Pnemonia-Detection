@@ -377,12 +377,6 @@ Contributions are welcome! Areas for improvement:
 
 ---
 
-## 📄 License
-
-Specify your project license here.
-
----
-
 ## 📧 Contact
 
 For questions or issues, please create an issue in the repository or contact the project maintainers.
